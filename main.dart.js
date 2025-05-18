@@ -84029,7 +84029,7 @@ s($,"aPV","azj",()=>A.a3L(A.c_([B.iH],t.r)))
 s($,"aQE","azO",()=>A.a3L(A.c_([B.iI],t.r)))
 s($,"aPL","azf",()=>A.a3L(A.c_([B.iJ],t.r)))
 s($,"aQw","azK",()=>A.a3L(A.c_([B.iK],t.r)))
-s($,"aRf","anv",()=>{var q=A.aAR("https://89.116.21.7:3000/api/",A.av(["Content-Type","application/json"],t.N,t.z)),p=new A.YE(A.awP(),new A.Ia(A.b([B.yD],A.an("w<hw?>"))),A.awP(),new A.a0z(51200),!1)
+s($,"aRf","anv",()=>{var q=A.aAR("https://backend-prod-webcup.onrender.com/api/",A.av(["Content-Type","application/json"],t.N,t.z)),p=new A.YE(A.awP(),new A.Ia(A.b([B.yD],A.an("w<hw?>"))),A.awP(),new A.a0z(51200),!1)
 p.QF$=q
 p.QG$=new A.WL(A.aI(t.lZ))
 return p})
